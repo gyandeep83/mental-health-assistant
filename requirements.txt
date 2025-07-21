@@ -1,0 +1,17 @@
+Django
+djangorestframework
+vaderSentiment
+langchain
+huggingface-hub
+langchain-community
+langchain-core
+langchain-huggingface
+python-dotenv
+django-cors-headers>=4.0.0
+langchain-openai>=0.0.2
+faiss-cpu>=1.7.4
+transformers>=4.30.2
+sentence-transformers>=2.2.2
+torch>=2.0.1
+requests>=2.31.0
+streamlit>=1.28.0
